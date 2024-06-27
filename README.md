@@ -1,4 +1,4 @@
-# Hello! I'm Divine! 👋🏿🥷🏿
+# Hello! I'm Divine! 👋🏿
 
 ![correct](https://github.com/divinekpor/divinekpor/assets/170003502/9525835e-6947-4fc8-be00-0ce17aac7e95)
 
