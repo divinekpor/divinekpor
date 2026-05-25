@@ -1,17 +1,13 @@
 # Hello! I'm Divine! 👋🏿
 
-![correct](https://github.com/divinekpor/divinekpor/assets/170003502/9525835e-6947-4fc8-be00-0ce17aac7e95)
-
-
-
 ## About Me
 
-I am a First-Year student at the University of Mary Washington, passionate about software development and programming. I have experience in various programming languages and technologies, and I am excited to continue learning and growing my skills.
+I am a student at the University of Mary Washington, passionate about software development and programming. I have experience in various programming languages and technologies, and I am excited to continue learning and growing my skills.
 
 - 🌱 I’m currently learning: Python, Java, C++, and web development with HTML.
 - 👯 I’m looking to collaborate on: Open-source projects and innovative software solutions.
 - 💬 Ask me about: Python, Java, C++, and web development with HTML.
-- 📫 How to reach me: [doamekpordivine@gmail.com] | [LinkedIn](https://www.linkedin.com/in/divine-doamekpor-543201298/) |
+- 📫 How to reach me: [divinedoamekpor1@gmail.com] | [LinkedIn](https://www.linkedin.com/in/divine-doamekpor-543201298/) |
 
 ## Skills
 
